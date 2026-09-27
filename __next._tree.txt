@@ -1,0 +1,5 @@
+:HL["/bustech/_next/static/chunks/2zup8ukeeeefp.css","style"]
+:HL["/bustech/_next/static/media/70bc3e132a0a741e-s.p.3t6q91iet4nsy.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bustech/_next/static/media/7c1e39d02e51fd6d-s.p.161-8jf3b5y85.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bustech/_next/static/media/c47649aa31f9e140-s.p.3lxpqujs87tck.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}},"staleTime":300,"buildId":"d9A1wVWn6ff2u6e5yHkGx"}
